@@ -13,13 +13,13 @@ public class CondProject {
         double multiplication;
         double division;
         double subtraction;
-        System.out.println("Enter an A: ");
+        System.out.println("Enter a value for A: ");
         x1 = scan.nextDouble();
-        System.out.println("Enter an B: ");
+        System.out.println("Enter a value for B: ");
         x2 = scan.nextDouble();
-        System.out.println("Enter an C: ");
+        System.out.println("Enter a value for C: ");
         x3 =  scan.nextDouble();
-        System.out.println("Enter an D: ");
+        System.out.println("Enter a value for D: ");
         x4 = scan.nextDouble();
 
 
