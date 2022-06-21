@@ -1,0 +1,60 @@
+OUTPUT
+METHODS
+Methods practice!
+15
+22.5
+I return nothing :)
+33.5
+Method practice!
+methodC is still useful
+1
+
+
+Memory
+public static void main(String[] args){
+System.out.println("METHODS");
+prints "METHODS"
+
+System.out.println(methodB(x, (int)z));
+methodB(5, (int)7)); * subsitution
+if(5 < 4)
+{
+skip
+}
+else if( 5 %  2 == 1)
+{
+skip
+}
+else {
+r = 3 * 5;
+
+return r = 15;
+}
+
+System.out.println(methodA(3, 9,));
+a = 3 * 2 = 6      *subsitution
+b = 9 + 0 = 9
+return 3 * 6 + 9 / 2 = 22.5
+
+methodC();
+methodC() {
+System.out.println("I return nothing");
+}
+Int x = 5;
+double z = 7;
+System.out.println(methodA(x,z);
+methodA(5, 7){      
+
+a = 5 * 2 = 10;       * subsitution
+b = 7 + 0 = 7;
+return 3 * 10 + 7 / 2 = 33.5;
+}
+System.out.println(2, 4)
+methodB(2, 4) {
+if(2 < 4)        *subsitution
+{
+r = 1 
+method c is still useful
+}
+}
+
